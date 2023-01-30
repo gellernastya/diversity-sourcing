@@ -114,7 +114,7 @@ Other communities:
 18. [Black Women in Science and Engineering](http://www.bwiseusa.org/)
 19. American Indian Sciences and Engineering Society
 
-## Custom Search Engines
+## Custom Search Engines by Irina Shamayeva
 
 Custom Search Engine (CSE) is a way to create your own “Google” search that is pre-set for the biggest part of your request (like filetype:, site:, other things), so you only have to put in the key string, like: (backend OR Go OR Golang) AND (engineer OR developer), and the results will be tailored per the rest of it. These CSEs below are tailored for diversity sourcing: 
 
