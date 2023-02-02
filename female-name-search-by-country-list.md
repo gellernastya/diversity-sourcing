@@ -2,7 +2,7 @@
 
 This page is a list of Boolean strings with the most popular female names per country. 
 
-You can use it while performing a diversity search on specific platforms. 
+You can use it while performing a diversity search on specific platforms - just click on the "Copy" button on the right on the window with query.
 
 ### **How to use it**
 
