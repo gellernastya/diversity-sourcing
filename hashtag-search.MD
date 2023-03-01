@@ -6,7 +6,7 @@ You can include them in your boolean string and search for users that made posts
 
 You can use them on any social media platform (Linkedin, Facebook, Medium, Twitter etc.).
 
-*Big list of hashtags**
+**Big list of hashtags:**
 - #WomenInTech
 - #GirlsWhoCode
 - #SheCanSTEM
