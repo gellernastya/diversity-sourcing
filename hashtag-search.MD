@@ -6,6 +6,12 @@ You can include them in your boolean string and search for users that made posts
 
 You can use them on any social media platform (Linkedin, Facebook, Medium, Twitter etc.).
 
+Example:
+
+```jsx
+site:twitter.com netherlands (developer OR engineer) javascript ("WomenInTech" OR "GirlsWhoCode" OR "SheCanSTEM" OR "WomenWhoCode" OR "CodeLikeAGirl" OR "WomenInSTEM" OR "GirlsInSTEM" OR "TechWomen" OR "WomenInEngineering" OR "STEMinist" OR "LGBTQInTech" OR "QueerInTech" OR "TransInTech" OR "DisabledInTech" OR "NeurodiverseInTech" OR "BlackInTech" OR "LatinxInTech" OR "AsianInTech" OR "IndigenousInTech" OR "DiversityInTech" OR "InclusionInTech" OR "TechDiversity" OR "TechInclusion" OR "EquityInTech" OR "RepresentationMatters" OR "TechForGood" OR "STEMForAll" OR "BreakingBarriers" OR "EmpoweringWomen" OR "InnovatingInclusion" OR "WomenInBusinessTech" OR "WomenInAI" OR "WomenInVenture" OR "WomenInSalesforce" OR "GirlsInCoding" OR "GirlsInTech" OR "GirlsInEngineering" OR "GirlsInDigital" OR "GirlsInIT" OR "GirlsInScience" OR "GirlsInSTEAM" OR "WomenInPower" OR "WomenWhoLeadTech" OR "WomenWhoStartup" OR "WomenWhoInspireTech" OR "WomenInCloud" OR "WomenInOpenSource" OR "WomenInCrypto" OR "WomenInBlockchain" OR "WomenInSecurity" OR "WomenInNetworking" OR "WomenInDesign" OR "WomenInProduct" OR "WomenInManagement" OR "WomenInDigitalMarketing" OR "WomenInData" OR "WomenInAnalytics" OR "WomenInTechLeadership" OR "WomenInTechnologyAndScience" OR "WomenInSTEMeducation" OR "WomenInSTEMcareers" OR "WomenInScienceAndEngineering" OR "WomenInTechnologyAndEngineering" OR "WomenInTechIndustry" OR "WomenInTechJobs" OR "WomenInTechEntrepreneurship" OR "LGBTQIAInSTEM" OR "TransInSTEM" OR "QueerSTEM" OR "DisabledInSTEM" OR "DisabledInTechnology" OR "BlindInTech" OR "DeafInTech" OR "InclusiveDesign" OR "AccessibilityMatters" OR "AccessibleTech" OR "AccessibleSoftware" OR "AccessibleHardware" OR "AccessibilityInTechnology" OR "AccessibilityInDesign" OR "BlackTechTwitter" OR "BlackTechPipeline" OR "BlackTechCommunity" OR "BlackInEngineering" OR "BlackInScience" OR "BlackInSoftwareEngineering" OR "BlackInCybersecurity" OR "BlackInAI" OR "BlackInData" OR "LatinaInTech" OR "LatinxInSTEM" OR "AsianInSTEM")
+```
+
 **Big list of hashtags:**
 - #WomenInTech
 - #GirlsWhoCode
