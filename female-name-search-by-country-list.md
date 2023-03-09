@@ -4,7 +4,7 @@ This page is a list of Boolean strings with the most popular female names per co
 
 You can use it while performing a diversity search on specific platforms.
 
-Just click on the "Copy" button on the right of the window with the query.
+Just click on the "Copy" button on the right of the window with the query..
 
 ### **How to use it**
 
