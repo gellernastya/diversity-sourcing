@@ -5,7 +5,7 @@ This repository is a toolkit of ready-to-use Boolean strings to help you with di
 
 **It has three sections:**
 
-- [Name search](https://github.com/gellernastya/diversity-sourcing/blob/main/female-name-search-by-country-list.md) - a list of the most popular female names per country.
+- [Name search](https://github.com/gellernastya/diversity-sourcing/blob/main/female-names-by-country.md) - a list of the most popular female names per country.
 - [Community search](https://github.com/gellernastya/diversity-sourcing/blob/main/communities.md) - a list of the most popular diversity in tech groups and communities.
 - [Hashtag search](https://github.com/gellernastya/diversity-sourcing/blob/main/hashtag-search.MD) - a list of hashtags most commonly used in posts dedicated to diversity topics.
 
