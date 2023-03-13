@@ -110,10 +110,30 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 **Full query (can be used with Linkedin)**
 
 ```jsx
-(Adéla OR Alžběta OR Anna OR Barbora OR Blanka OR Daniela OR Eliška OR Eva OR Gabriela OR Hana OR Iva OR Jana OR Kateřina OR Kristýna OR Lucie OR Magdaléna OR Markéta OR Martina OR Michaela OR Monika OR Natalie OR Nikola OR Pavlína OR Petra OR Renata OR Šárka OR Simona OR Soňa OR Tereza OR Veronika OR Věra OR Vladimíra OR Zuzana OR Aneta OR Andrea OR Jitka OR Klára OR Květa OR Lenka OR Lída OR Ludmila OR Marcela OR Mariana OR Marika OR Marta OR Michala OR Milada OR Milena OR Miloslava OR Miroslava OR Nada OR Náděje OR Nina OR Olga OR Patrik OR Paulina OR Radka OR Renáta OR Růžena OR Štěpánka OR Sylva OR Tamara OR Terezie OR Zdenka OR Zdena OR Zdeňka OR Zuzana OR Alena OR Alice OR Anastázie OR Anetta OR Anička OR Božena OR Dita OR Drahomíra OR Jarmila OR Jaroslava OR Jolana OR Karolína OR Katerina OR Lenka OR Lidmila OR Lucie OR Lydie OR Magdaléna OR Marie OR Marijana OR Marika OR Marketa OR Mária OR Milada OR Miloslava OR Olga OR Renata OR Stanislava OR Tereza OR Zdena OR Zdeňka OR Zuzana)
+(Adéla OR Alžběta OR Anna OR Barbora OR Blanka OR Daniela OR Eliška OR Eva OR Gabriela OR Hana OR Iva OR Jana OR Kateřina OR Kristýna OR Lucie OR Magdaléna OR Markéta OR Martina OR Michaela OR Monika OR Natalie OR Nikola OR Pavlína OR Petra OR Renata OR Šárka OR Simona OR Soňa OR Tereza OR Veronika OR Věra OR Vladimíra OR Zuzana OR Aneta OR Andrea OR Jitka OR Klára OR Květa OR Lenka OR Lída OR Ludmila OR Marcela OR Mariana OR Marika OR Marta OR Michala OR Milada OR Milena OR Miloslava OR Miroslava OR Nada OR Náděje OR Nina OR Olga OR Patrik OR Paulina OR Radka OR Renáta OR Růžena OR Štěpánka OR Sylva OR Tamara OR Terezie OR Zdenka OR Zdena OR Zdeňka OR Zuzana OR Alena OR Alice OR Anastázie OR Anetta OR Anička OR Božena OR Dita OR Drahomíra OR Jarmila OR Jaroslava OR Jolana OR Karolína OR Katerina OR Lidmila OR Lucie OR Lydie OR Magdaléna OR Marie OR Marijana OR Marika OR Marketa OR Mária OR Milada OR Miloslava OR Olga OR Renata OR Stanislava OR Tereza)
 ```
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
+
+```jsx
+(Adéla OR Alžběta OR Anna OR Barbora OR Blanka OR Daniela OR Eliška OR Eva OR Gabriela OR Hana OR Iva OR Jana OR Kateřina OR Kristýna OR Lucie OR Magdaléna OR Markéta OR Martina OR Michaela)
+```
+
+```jsx
+(Monika OR Natalie OR Nikola OR Pavlína OR Petra OR Renata OR Šárka OR Simona OR Soňa OR Tereza OR Veronika OR Věra OR Vladimíra OR Zuzana OR Aneta OR Andrea OR Jitka OR Klára OR Květa OR Lenka)
+```
+
+```jsx
+(Lída OR Ludmila OR Marcela OR Mariana OR Marika OR Marta OR Michala OR Milada OR Milena OR Miloslava OR Miroslava OR Nada OR Náděje OR Nina OR Olga OR Patrik OR Paulina OR Radka OR Renáta OR Růžena)
+```
+
+```jsx
+(Štěpánka OR Sylva OR Tamara OR Terezie OR Zdenka OR Zdena OR Zdeňka OR Zuzana OR Alena OR Alice OR Anastázie OR Anetta OR Anička OR Božena OR Dita OR Drahomíra OR Jarmila OR Jaroslava)
+```
+
+```jsx
+(Jolana OR Karolína OR Katerina OR Lidmila OR Lucie OR Lydie OR Magdaléna OR Marie OR Marijana OR Marika OR Marketa OR Mária OR Milada OR Miloslava OR Olga OR Renata OR Stanislava OR Tereza)
+```
 
 🇩🇰 **Denmark**
 
