@@ -326,6 +326,30 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(麻衣 OR 可奈子 OR 美咲 OR 麗華 OR 菜月 OR 志帆 OR 絵里香 OR 葵 OR 麻衣子 OR 萌音) OR (詩織 OR 芽依 OR 由香利 OR 莉穂 OR 真奈美 OR 詩音 OR 真琴 OR 瞳 OR 風音 OR 百合子)
+```
+
+```jsx
+ (美音 OR 涼 OR 珠希 OR 心美 OR 千春 OR 美緒 OR 詩菜 OR 綾音 OR 明日香 OR 理子) OR (莉美 OR 文香 OR 真央 OR 智美 OR 春香 OR 花音 OR 千尋 OR 優香 OR 真美 OR 千晶)
+```
+
+```jsx
+(美音子 OR 美咲子 OR 文子 OR 優子 OR 芽織 OR 真希 OR 智穂 OR 千代 OR 明日香子 OR 花子) OR (綾乃 OR 彩乃 OR 理沙 OR 雫 OR 由香里 OR 直美 OR 文織 OR 明日葵 OR 千奈 OR 咲良)
+```
+
+```jsx
+(麗奈 OR 奈穂 OR 千鶴 OR 咲子 OR 涼子 OR 莉那 OR 奈津子 OR 心美子 OR 真紀 OR 真未) OR (心美果 OR 真紅 OR 真理香 OR 真梨子 OR 文絵 OR 真緒 OR 優希 OR 千香子 OR 美奈子 OR 明日花)
+```
+
+```jsx
+(真美子 OR 奈穂子 OR 春菜 OR 春香子 OR 真実 OR 智美子 OR 千代子 OR 彩織 OR 優美 OR 千那子) OR (美香 OR 芽衣 OR 智代 OR 千歳 OR 詩美 OR 理沙子 OR 真奈穂 OR 瞳子 OR 真未子 OR 珠美)
+```
+
+```jsx
+(真希子 OR 真緒子 OR 美和子 OR 千聖 OR 美未 OR 芽依子 OR 珠希子 OR 詩希 OR 心美果子)
+```
+
 🇳🇱 **Netherlands**
 
 **Full query (can be used with Linkedin)**
