@@ -206,10 +206,26 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 **Full query (can be used with Linkedin)**
 
 ```jsx
-(Emma OR Olivia OR Chloe OR Aurore OR Ines OR Adeline OR Camille OR Sarah OR Lucie OR Amelie OR Lea OR Nina OR Elise OR Manon OR Lila OR Lola OR Louise OR Claire OR Julie OR Margaux OR Eve OR Pauline OR Justine OR Maelys OR Mila OR Estelle OR Lou OR Anaïs OR Celia OR Louna OR Mila OR Zoé OR Léa OR Emilie OR Lena OR Clara OR Mathilde OR Charlotte OR Marianne OR Lilou OR Marie OR Elodie OR Romane OR Céline OR Gabrielle OR Laurine OR Mila OR Noémie OR Héloïse OR Anne OR Line OR Lilou OR Nathalie OR Alix OR Sophie OR Marine OR Aurélie OR Lena OR Maeve OR Alexandra OR Alice OR Coralie OR Fanny OR Lysa OR Lena OR Annie OR Pauline OR Brigitte OR Lise OR Eva OR Aurélia OR Lena OR Lise OR Léna OR Lola OR Victoire OR Lena OR Claire OR Béatrice OR Nina OR Lena OR Julie OR Lena OR Nina OR Lena OR Léa)
+(Emma OR Olivia OR Chloe OR Aurore OR Ines OR Adeline OR Camille OR Sarah OR Lucie OR Amelie OR Lea OR Nina OR Elise OR Manon OR Lila OR Lola OR Louise OR Claire OR Julie OR Margaux OR Eve OR Pauline OR Justine OR Maelys OR Mila OR Estelle OR Lou OR Anaïs OR Celia OR Louna OR Zoé OR Léa OR Emilie OR Lena OR Clara OR Mathilde OR Charlotte OR Marianne OR Lilou OR Marie OR Elodie OR Romane OR Céline OR Gabrielle OR Laurine OR Noémie OR Héloïse OR Anne OR Line OR Nathalie OR Alix OR Sophie OR Marine OR Aurélie OR Maeve OR Alexandra OR Alice OR Coralie OR Fanny OR Lysa OR Annie OR Pauline OR Brigitte OR Lise OR Eva OR Aurélia OR Léna OR Lola OR Victoire OR Claire OR Béatrice OR Nina OR Léa)
+
 ```
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
+
+```jsx
+(Emma OR Olivia OR Chloe OR Aurore OR Ines OR Adeline OR Camille OR Sarah OR Lucie OR Amelie OR Lea OR Nina OR Elise OR Manon OR Lila OR Lola OR Louise OR Claire OR Julie OR Margaux)
+```
+```jsx
+(Eve OR Pauline OR Justine OR Maelys OR Mila OR Estelle OR Lou OR Anaïs OR Celia OR Louna OR Zoé OR Léa OR Emilie OR Lena OR Clara OR Mathilde OR Charlotte OR Marianne OR Lilou OR Marie)
+```
+
+```jsx
+(Elodie OR Romane OR Céline OR Gabrielle OR Laurine OR Noémie OR Héloïse OR Anne OR Line OR Nathalie OR Alix OR Sophie OR Marine OR Aurélie OR Maeve OR Alexandra OR Alice OR Coralie OR Fanny OR Lysa)
+```
+
+```jsx
+(Annie OR Pauline OR Brigitte OR Lise OR Eva OR Aurélia OR Léna OR Lola OR Victoire OR Claire OR Béatrice OR Nina OR Léa)
+```
 
 🇮🇱 **Israel**
 
