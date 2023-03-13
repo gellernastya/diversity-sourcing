@@ -145,6 +145,25 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(Astrid OR Ingrid OR Mette OR Anne OR Maria OR Kirsten OR Lene OR Susanne OR Hanne OR Rikke OR Signe OR Helene OR Sine OR Dorthe OR Ida OR Birgitte OR Maja OR "Anne-Marie" OR Malene OR Sofie)
+```
+
+```jsx
+(Camilla OR Louise OR Line OR Emma OR Julie OR Trine OR Cecilie OR Sara OR Pernille OR Charlotte OR Gitte OR Stine OR Tina OR Inge OR Elisabeth OR Karen OR Lise OR Birthe OR Majken OR Berit)
+```
+```jsx
+(Jette OR Grethe OR "Karen-Lise" OR Henriette OR Nina OR Vibeke OR Agnes OR Bettina OR "Karen-Margrethe" OR Kristine OR Annette OR Bodil OR Connie OR Merete OR Tine OR Ilse OR Aase OR Marianne OR Tove OR Margrethe)
+```
+
+```jsx
+("Lene-Mette" OR Anette OR Else OR Eva OR Elin OR Gunilla OR Johanne OR Kari OR Ulla OR Lotte OR Birte OR Gudrun OR Susan OR "Lene-Marie" OR Inger OR Christa OR Gertrud OR Tanja OR Janni OR Lone)
+```
+```jsx
+(Anja OR "Karen-Marie" OR "Marianne-Lene" OR Helle OR "Mette-Marie" OR Karoline OR Kristina OR "Karen-Birgitte" OR "Anette-Mette" OR Pia
+"Lene-Merete" OR "Berit-Lene" OR Marie)
+```
+
 🇪🇪 **Estonia**
 
 **Full query (can be used with Linkedin)**
@@ -343,17 +362,6 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 ```jsx
 (Emily OR Emma OR Olivia OR Ava OR Isabella OR Sophia OR Mia OR Charlotte OR Amelia OR Harper OR Avery OR Evelyn OR Abigail OR Emily OR Elizabeth OR Sofia OR Aubrey OR Addison OR Aria OR Adalynn OR Mila OR Riley OR Aurora OR Arianna OR Camila OR Eleanor OR Genesis OR Eden OR Brooklyn OR Natalie OR Lillian OR Hazel OR Violet OR Aaliyah OR Kaylee OR Aurora OR Scarlett OR Audrey OR Leah OR Allison OR Savannah OR Annabelle OR Natalie OR Isabelle OR Rylee OR Nevaeh OR Paisley OR Makayla OR Lydia OR Ellie OR Aurora OR Mackenzie OR Adalyn OR Avery OR Ezra OR Adalynn OR Hazel OR Aurora OR Stella OR Aria OR Aurora OR Avery OR Eleanor OR Natalie OR Avery OR Evelyn OR Hazel OR Avery OR Aurora OR Avery OR Natalie OR Hazel OR Avery OR Evelyn OR Aurora)
-```
-
-**Broken down into smaller queries for Google (undeer 20 key words each)**
-
-
-🇺🇸 **United States (**[Glen Cathey's](https://booleanblackbelt.com/2012/12/diversity-sourcing-boolean-search-strings-for-linkedin/) **list)**
-
-**Full query (can be used with Linkedin)**
-
-```jsx
-(Abigail OR Adriana OR Adrienne OR Aimee OR Alejandra OR Alexa OR Alexandra OR Alexandria OR Alexis OR Alice OR Alicia OR Alisha OR Alison OR Allison OR Alyssa OR Amanda OR Amber OR Amy OR Ana OR Andrea OR Angel OR Angela OR Angelica OR Angie OR Anita OR Ann OR Anna OR Anne OR Annette OR Annie OR April OR Ariana OR Ariel OR Arlene OR Ashlee OR Ashley OR Audrey OR Autumn OR Bailey OR Barbara OR Becky OR Belinda OR Beth OR Bethany OR Betty OR Beverly OR Bianca OR Bonnie OR Brandi OR Brandy OR Breanna OR Brenda OR Briana OR Brianna OR Bridget OR Brittany OR Brittney OR Brooke OR Caitlin OR Caitlyn OR Candace OR Candice OR Carla OR Carly OR Carmen OR Carol OR Carole OR Caroline OR Carolyn OR Carrie OR Casey OR Cassandra OR Cassidy OR Cassie OR Catherine OR Cathy OR Charlene OR Charlotte OR Chelsea OR Chelsey OR Cheryl OR Cheyenne OR Chloe OR Christie OR Christina OR Christine OR Christy OR Cindy OR Claire OR Claudia OR Colleen OR Connie OR Constance OR Courtney OR Cristina OR Crystal OR Cynthia OR Daisy OR Dana OR Danielle OR Darlene OR Dawn OR Deanna OR Debbie OR Deborah OR Debra OR Delores OR Denise OR Desiree OR Destiny OR Diamond OR Diana OR Diane OR Dianne OR Dolores OR Dominique OR Donna OR Doreen OR Doris OR Dorothy OR Ebony OR Eileen OR Elaine OR Elizabeth OR Ellen OR Emily OR Emma OR Erica OR Erika OR Erin OR Eva OR Evelyn OR Faith OR Felicia OR Frances OR Gabriela OR Gabriella OR Gabrielle OR Gail OR Gayle OR Geraldine OR Gina OR Glenda OR Gloria OR Grace OR Gwendolyn OR Hailey OR Haley OR Hannah OR Hayley OR Heather OR Heidi OR Helen OR Holly OR Irene OR Isabel OR Isabella OR Jackie OR Jaclyn OR Jacqueline OR Jade OR Jaime OR Jamie OR Jan OR Jane OR Janet OR Janice OR Janis OR Jasmin OR Jasmine OR Jean OR Jeanette OR Jeanne OR Jenna OR Jennifer OR Jenny OR Jessica OR Jill OR Jillian OR Jo OR Joan OR Joann OR Joanna OR Joanne OR Jocelyn OR Jodi OR Jody OR Jordan OR Josephine OR Joy OR Joyce OR Juanita OR Judith OR Judy OR Julia OR Julie OR June OR Kaitlin OR Kaitlyn OR Kara OR Karen OR Kari OR Karina OR Karla OR Katelyn OR Katherine OR Kathleen OR Kathryn OR Kathy OR Katie OR Katrina OR Kay OR Kayla OR Kaylee OR Kelli OR Kellie OR Kelly OR Kelsey OR Kendra OR Kerri OR Kerry OR Kiara OR Kim OR Kimberly OR Kirsten OR Krista OR Kristen OR Kristi OR Kristie OR Kristin OR Kristina OR Kristine OR Kristy OR Krystal OR Kylie OR Lacey OR Latasha OR Latoya OR Laura OR Lauren OR Laurie OR Leah OR Leslie OR Lillian OR Linda OR Lindsay OR Lindsey OR Lisa OR Lois OR Loretta OR Lori OR Lorraine OR Louise OR Lydia OR Lynda OR Lynn OR Lynne OR Mackenzie OR Madeline OR Madison OR Makayla OR Mallory OR Mandy OR Marcia OR Margaret OR Maria OR Mariah OR Marianne OR Marie OR Marilyn OR Marisa OR Marissa OR Marjorie OR Marlene OR Marsha OR Martha OR Mary OR Maureen OR Mckenzie OR Meagan OR Megan OR Meghan OR Melanie OR Melinda OR Melissa OR Melody OR Mercedes OR Meredith OR Mia OR Michaela OR Michele OR Michelle OR Mikayla OR Mildred OR Mindy OR Miranda OR Misty OR Molly OR Monica OR Monique OR Morgan OR Nancy OR Natalie OR Natasha OR Nichole OR Nicole OR Nina OR Norma OR Olivia OR Paige OR Pam OR Pamela OR Patricia OR Patsy OR Patti OR Patty OR Paula OR Peggy OR Penny OR Phyllis OR Priscilla OR Rachael OR Rachel OR Raven OR Rebecca OR Rebekah OR Regina OR Renee OR Rhonda OR Rita OR Roberta OR Robin OR Robyn OR Rosa OR Rose OR Rosemary OR Roxanne OR Ruby OR Ruth OR Sabrina OR Sally OR Samantha OR Sandra OR Sandy OR Sara OR Sarah OR Savannah OR Selena OR Shannon OR Shari OR Sharon OR Shawna OR Sheena OR Sheila OR Shelby OR Shelia OR Shelley OR Shelly OR Sheri OR Sherri OR Sherry OR Sheryl OR Shirley OR Sierra OR Sonia OR Sonya OR Sophia OR Stacey OR Stacie OR Stacy OR Stefanie OR Stephanie OR Sue OR Summer OR Susan OR Suzanne OR Sydney OR Sylvia OR Tabitha OR Tamara OR Tami OR Tammie OR Tammy OR Tanya OR Tara OR Tasha OR Taylor OR Teresa OR Terri OR Terry OR Theresa OR Tiffany OR Tina OR Toni OR Tonya OR Tracey OR Traci OR Tracie OR Tracy OR Tricia OR Valerie OR Vanessa OR Veronica OR Vicki OR Vickie OR Vicky OR Victoria OR Virginia OR Vivian OR Wanda OR Wendy OR Whitney OR Yesenia OR Yolanda OR Yvette OR Yvonne OR Zoe)
 ```
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
