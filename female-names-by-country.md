@@ -256,7 +256,7 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 ```
 
 ```jsx
-(Shlomit OR Shulamit OR Tamara OR Tzipporah OR Vered OR Yarden OR Yifat-Or OR Yaelle OR Yocheved-Malka OR Zohar)
+(Shlomit OR Shulamit OR Tamara OR Tzipporah OR Vered OR Yarden OR "Yifat-Or OR Yaelle" OR "Yocheved-Malka" OR Zohar)
 ```
 
 (***In Hebrew)***
@@ -269,6 +269,28 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(אריאל OR אביגייל OR אביטל OR עדינה OR אחוה OR עליזה OR בתיה OR ברוריה OR חוה OR דפנה OR דבורה OR עדן OR אפרת OR אליאנה OR אלישה OR אמונה OR אסתר OR אתי)
+```
+
+```jsx
+(גלית OR גילה OR חדר OR חנה OR חוה OR חביבה OR הילה OR עילנה OR עירית OR כרן OR לאה OR מלכה OR מיכל OR נעמה OR נחמה OR נילי OR עופרה OR אורלי)
+```
+```jsx
+(אורי OR אורית OR רבקה OR רות OR שרה OR שירה OR תמר OR טובה OR ורדה OR יעל OR יהודית OR יפת OR יוכבד OR זיופורה)
+```
+```jsx
+(עדי OR עגם OR עלעזה OR אלונה OR איילת OR חן OR דנה OR דפנה OR דינה OR אינת OR אליאנה OR אלישבע OR אלנתן OR גליה)
+```
+```jsx
+(גאיה OR גאולה OR חגית OR חודחי OR ענבר OR קרמית OR קרולינה OR כרן-אור OR ליאת OR ליאור OR מעיין OR מיכל-נילי OR מרים)
+```
+```jsx
+(נועה OR נועם OR נוגה OR עופירה OR אור OR אורלי OR אשרת OR פנינה OR פסי OR רחל OR רוני OR רותי)
+```
+```jsx
+(שני OR שרון OR שלומית OR שולמית OR תמרה OR ציפורה OR ורד OR ירדן OR יפת-אור OR יאללה OR יוכבד-מלכה OR זוהר)
+```
 
 🇯🇵 **Japan** 
 
