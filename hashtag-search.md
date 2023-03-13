@@ -9,7 +9,7 @@ You can use them on any social media platform (Linkedin, Facebook, Medium, Twitt
 Example:
 
 ```jsx
-site:twitter.com netherlands (developer OR engineer) javascript (("WomenInTech" OR "GirlsWhoCode" OR "SheCanSTEM" OR "WomenWhoCode" OR "CodeLikeAGirl" OR "WomenInSTEM" OR "GirlsInSTEM" OR "TechWomen" OR "WomenInEngineering" OR "STEMinist" OR "LGBTQInTech" OR "QueerInTech" OR "TransInTech" OR "DisabledInTech" OR "NeurodiverseInTech" OR "BlackInTech" OR "LatinxInTech" OR "AsianInTech" OR "IndigenousInTech" OR "DiversityInTech")
+site:twitter.com netherlands (developer OR engineer) javascript ("WomenInTech" OR "GirlsWhoCode" OR "SheCanSTEM" OR "WomenWhoCode" OR "CodeLikeAGirl" OR "WomenInSTEM" OR "GirlsInSTEM" OR "TechWomen" OR "WomenInEngineering" OR "STEMinist" OR "LGBTQInTech" OR "QueerInTech" OR "TransInTech" OR "DisabledInTech" OR "NeurodiverseInTech" OR "BlackInTech" OR "LatinxInTech" OR "AsianInTech" OR "IndigenousInTech" OR "DiversityInTech")
 ```
 
 **Big list of hashtags:**
