@@ -239,6 +239,25 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(Gila OR Hadar OR Hannah OR Hava OR Haviva OR Hilla OR Ilana OR Irit OR Keren OR Leah OR Malka OR Michal OR Naama OR Nechama OR Nili OR Ofra OR Orli OR Orit OR Rivka OR Ruth)
+```
+
+```jsx
+(Sarah OR Shira OR Tamar OR Tova OR Varda OR Yael OR Yehudit OR Yifat OR Yocheved OR Zipporah OR Adi OR Agam OR Aleeza OR Alona OR Ayelet OR Chen)
+```
+
+```jsx
+(Dana OR Daphna OR Deena OR Einat OR Elianna OR Elisheva OR Elnatan OR Galia OR Gaya OR Geula OR Hagit OR Hodaya OR Inbar OR Karmit OR Karoline OR Keren-Or OR Liat OR Liora)
+```
+
+```jsx
+(Maayan OR Michal-Nili OR Miriam OR Noa OR Noam OR Noga OR Ofira OR Or OR Orly OR Oshrat OR Penina OR Pessy OR Rachel OR Roni OR Ruthie OR Shani OR Sharon)
+```
+
+```jsx
+(Shlomit OR Shulamit OR Tamara OR Tzipporah OR Vered OR Yarden OR Yifat-Or OR Yaelle OR Yocheved-Malka OR Zohar)
+```
 
 (***In Hebrew)***
 
