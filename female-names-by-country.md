@@ -173,6 +173,33 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 ```
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(Nina OR Ingrid OR Maria OR Triinu OR Anneli OR Aili OR Evelyn OR Kadi OR Kristiina OR Kätlin OR Marika OR Merike OR Miina OR Siiri OR Evelin OR Heidi OR Helina OR Karmen OR Leena OR Marju)
+```
+
+```jsx
+(Marlene OR Piret OR Raili OR Ülle OR Agnes OR Airi OR Alar OR Alise OR Anu OR Ariana OR Astrid OR Birgit OR Eda OR Eliise OR Gerli OR Ilona OR Indrek OR Inna OR Jana)
+```
+
+```jsx
+(Janika OR Katrin OR Kerttu OR Kiira OR Kreete OR Krista OR Lara OR Laura OR Lea OR Liisi OR Ljudmilla OR Maarika OR Maarja OR Mariliis OR Maris OR Marta OR Maret OR Mihkel OR Nele OR Päivi)
+```
+
+```jsx
+(Piia OR Riina OR Sandra OR Signe OR Silvia OR Sirje OR Siret OR Taisi OR Tanel OR Tõnu OR Toomas OR Triin OR Tõnis OR Urmas OR Uudo OR Valentina OR Violet OR Väli OR Anti OR Iiris)
+```
+
+```jsx
+(Imbi OR Inge OR Kadri OR Katariina OR Kertu OR Liina OR Lille OR Linda OR Markus OR Marva OR Mette OR Milvi OR Mirtel OR Monika OR Pauliina OR Raivo OR Renata OR Risto OR Sille)
+```
+
+```jsx
+(Sireli OR Siim OR Sirje OR Tuuli OR Viive OR Väino OR Elo OR Elsa OR Ene OR Epp OR Erki OR Eve OR Gertrud OR Hele OR Janne OR Joosep OR Juhan OR Juuli)
+```
+
+```jsx
+(Kaur OR Kelle OR Kirsi OR Küllike OR Laine OR Mart OR Meelis OR Meeli OR Mihkel OR Tarmo OR Tiina OR Toivo OR Ulla OR Villem OR Zuleyha)
+```
 
 🇫🇷 **France**
 
