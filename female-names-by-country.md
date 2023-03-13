@@ -304,6 +304,18 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(Arisa OR Yui OR Yuria OR Eri OR Ai OR Maki OR Mariko OR Rika OR Rio OR Ayaka OR Ami OR Momo OR Mei OR Saki OR Shiho OR Yuna OR Yurika OR Aiha OR Asumi)
+```
+
+```jsx
+(Fumiko OR Emiko OR Eriko OR Hina OR Haruka OR Hibiki OR Hotaru OR Hana OR Akira OR Akiko OR Arisa OR Asako OR Chinatsu OR Chie OR Chizuru OR Eika OR Emi OR Fumika OR Haruna OR Hitomi)
+```
+
+```jsx
+(Hiyori OR Hisae OR Izumi OR Junko OR Kaori OR Kana OR Kaoru OR Kasumi OR Kumi OR Kanae OR Kanna OR Miho OR Mako OR Mika OR Miki OR Mina OR Mayu OR Michiko OR Minori)
+```
+
 ***In Japanese (needs checking by a Japanese speaker)***
 
 **Full query (can be used with Linkedin)**
