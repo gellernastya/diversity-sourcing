@@ -720,4 +720,7 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 (Stella OR Aria OR Aurora OR Avery OR Eleanor OR Natalie OR Avery OR Evelyn OR Hazel OR Avery OR Aurora OR Avery OR Natalie OR Hazel OR Avery OR Evelyn OR Aurora)
 ```
 
-**Didn't find the country you need or you find the list not extensive enough? Please contribute, let's make this tool better for the sourcing community :) **
+
+Didn't find the country you need or you find the list not extensive enough? 
+
+Please contribute, let's make this tool better for the sourcing community :) 
