@@ -506,13 +506,35 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Full query (can be used with Linkedin)**
 
-
 ```jsx
 (Amanda OR Angelina OR Ashley OR Audrey OR Ayesha OR Beatrice OR Brenda OR Carmen OR Caroline OR Cassie OR Catherine OR Charmaine OR Cheryl OR Christine OR Cindy OR Claire OR Constance OR Daphne OR Darlene OR Dawn OR Debbie OR Delia OR Denise OR Diana OR Doris OR Elaine OR Eleanor OR Elizabeth OR Emily OR Emma OR Evelyn OR Fiona OR Florence OR Gabriella OR Grace OR Hannah OR Harper OR Hazel OR Heidi OR Holly OR Ida OR Jacqueline OR Joanne OR Josephine OR Joyce OR Jullia OR Karen OR Katherine OR Katie OR Kelly OR Kimberly OR Kirsten OR Lara OR Leah OR Lena OR Lily OR Linda OR Lisa OR Maggie OR Maria OR Mariah OR Marianne OR Mary OR Megan OR Melanie OR Michelle OR Mildred OR Minnie OR Miriam OR Molly OR Nadia OR Nancy OR Naomi OR Natalie OR Nicole OR Nina OR Noelle OR Olivia OR Patricia OR Pauline OR Pearl OR Phoebe OR Rachel OR Rebecca OR Rosalind OR Rose OR Rosemarie OR Samantha OR Sarah OR Selena OR Sharon OR Sherlyn OR Shirlene OR Sophia OR Stella OR Susan OR Teresa OR Tessa OR Thalia OR Tina OR Tracy OR Vanessa OR Victoria OR Vivian OR Wendy OR Yvette OR Zoe)
 ```
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(Amanda OR Angelina OR Ashley OR Audrey OR Ayesha OR Beatrice OR Brenda OR Carmen OR Caroline OR Cassie OR Catherine OR Charmaine OR Cheryl OR Christine OR Cindy OR Claire OR Constance OR Daphne OR Darlene OR Dawn)
+```
+
+```jsx
+(Debbie OR Delia OR Denise OR Diana OR Doris OR Elaine OR Eleanor OR Elizabeth OR Emily OR Emma OR Evelyn OR Fiona OR Florence OR Gabriella OR Grace OR Hannah OR Harper OR Hazel OR Heidi OR Holly)
+```
+
+```jsx
+(Ida OR Jacqueline OR Joanne OR Josephine OR Joyce OR Jullia OR Karen OR Katherine OR Katie OR Kelly OR Kimberly OR Kirsten OR Lara OR Leah OR Lena OR Lily OR Linda OR Lisa OR Maggie OR Maria)
+```
+
+```jsx
+(Mariah OR Marianne OR Mary OR Megan OR Melanie OR Michelle OR Mildred OR Minnie OR Miriam OR Molly OR Nadia OR Nancy OR Naomi OR Natalie OR Nicole OR Nina OR Noelle OR Olivia OR Patricia)
+```
+
+```jsx
+(Pauline OR Pearl OR Phoebe OR Rachel OR Rebecca OR Rosalind OR Rose OR Rosemarie OR Samantha OR Sarah OR Selena OR Sharon OR Sherlyn)
+```
+
+```jsx
+(Shirlene OR Sophia OR Stella OR Susan OR Teresa OR Tessa OR Thalia OR Tina OR Tracy OR Vanessa OR Victoria OR Vivian OR Wendy OR Yvette OR Zoe)
+```
 
 🇪🇸 **Spain**
 
@@ -524,6 +546,42 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 ```
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
+
+```jsx
+(Maria OR Ana OR Carmen OR Josefa OR Isabel OR Dolores OR Margarita OR María Teresa OR Cristina OR Pilar OR "Ana María" OR Lucía OR Marta OR Sara OR Julia OR Belén OR Encarnación OR Raquel)
+```
+
+```jsx
+(Martina OR Natalia OR Laura OR Victoria OR Esther OR Nuria OR Alba OR Andrea OR Mónica OR Yolanda OR Concha OR Aida OR Arancha OR Mercedes OR Gloria OR Irene OR Lourdes OR Francisca) 
+```
+
+```jsx
+(Elvira OR Inmaculada OR Martínez OR Elena OR Guadalupe OR Patricia OR Amparo OR Ofelia OR Silvia OR Rocío OR "Julia María" OR Lucinda OR Ester OR Fátima OR Adela OR Emilia OR Conchita OR Amalia OR Adriana OR "María José") 
+```
+
+```jsx
+(Ángela OR "María Dolores" OR Fernanda OR Encarna OR Asunción OR Begoña OR Concepción OR Raúl OR Remedios OR Amelia OR Aurora OR "Ana Isabel" OR "Rosa María" OR Marisol OR Agustina OR Teresa OR "Ana Belén" OR "Ana Rosa" OR Juanita OR Angela)
+```
+
+```jsx
+("Yolanda Maria" OR "María Victoria" OR "María Antonia" OR "Rosa Ana" OR "Anabel" OR "Mireia" OR "Marta María" OR "Ainhoa" OR "Nerea" OR "Mercedes María" OR "Silvia María" OR "Ana María" OR "Ana Maria" OR "Elvira María" OR "Maria Teresa") 
+```
+
+```jsx
+("Isabel Maria" OR "María Jose" OR "Conchita María" OR "Maria Dolores" OR "Maria Isabel" OR "Rocio Maria" OR "Ana Maria Teresa" OR "Belen Maria" OR "Carmen Maria" OR "Lucía Maria" OR "María Cristina" OR "María Pilar" OR "Maria Luisa" OR "Victoria Maria" OR "Ana Luisa") 
+```
+
+```jsx
+("María Elena" OR "María Gloria" OR "Maria Irene" OR "Maria Lourdes" OR "María Francisca" OR "María Inmaculada" OR "Maria Martinez" OR "Maria Guadalupe" OR "Maria Patricia" OR "Maria Amparo" OR "Maria Ofelia" OR "Maria Silvia" OR "Maria Rocio" OR "Maria Julia" OR "Maria Lucinda") 
+```
+
+```jsx
+("Maria Ester" OR "Maria Fatima" OR "Maria Adela" OR "Maria Emilia" OR "Maria Conchita" OR "Maria Amalia" OR "Maria Adriana" OR "María Josefa" OR "María Ángela" OR "María Dolores" OR "María Fernanda" OR "María Encarna" OR "María Asunción" OR "María Begoña" OR "María Concepción" OR "María Raúl" OR "María Remedios" OR "María Amelia" OR "María Aurora" OR "María Ana Isabel") 
+```
+
+```jsx
+("María Rosa María" OR "María Marisol" OR "María Agustina" OR "María Teresa" OR "María Ana Belén" OR "María Ana Rosa" OR "María Juanita" OR "María Angela" OR "María Yolanda" OR "María Mireia" OR "María Ainhoa" OR "María Nerea" OR "María Ana María" OR "María Ana Maria" OR "María Elvira María" OR "María Victoria" OR "María Antonia" OR "María Rosa" Ana OR "María Anabel")
+```
 
 
 🇸🇪 **Sweden**
@@ -537,6 +595,25 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
 
+```jsx
+(Anna OR Emma OR Sofia OR Maja OR Olivia OR Isabella OR Tova OR Mila OR Wilma OR Lina OR Alice OR Majken OR Fanny OR Klara OR Lovisa OR Amelia OR Ella OR Noa OR Lea OR Freja) 
+```
+
+```jsx
+(Elin OR Tilde OR Nellie OR Astrid OR Minna OR Felicia OR Ellen OR Alice OR Ida OR Agnes OR Ingrid OR Maja OR Elsa OR Vera OR Ester OR Emma OR Matilda OR Sara OR Maria OR Amanda) 
+```
+
+```jsx
+(Ebba OR Isabell OR Greta OR Moa OR Liv OR Frida OR Linnea OR Alva OR Evelina OR Sanna OR Josefin OR Caroline OR Majken OR Åsa OR Katarina OR Victoria OR Julia OR Klara OR Therese) 
+```
+
+```jsx
+(Ellinor OR Ebba OR Emilia OR Signe OR Hannah OR Felicia OR Ella OR Lina OR Hedda OR Edith OR Molly OR Klara OR Matilda OR Kajsa OR Ebba OR Elin OR Ellen OR Wilma OR Amanda) 
+```
+
+```jsx
+(Maria OR Sofie OR Emilia OR Julie OR Cajsa OR Tuva OR Mathilda OR Moa OR Elvira OR Vera OR Agnes OR Beatrice OR Stina OR Lina OR Emma OR Elsa OR Annika OR Elin)
+```
 
 🇺🇦 **Ukraine**
 
@@ -550,6 +627,22 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(Maria OR Anna OR Olga OR Natalia OR Tatiana OR Anastasia OR Elena OR Irina OR Yana OR Julia OR Svetlana OR Alena OR Victoria OR Valeria OR Nadezhda OR Kateryna OR Lidia OR Inna OR Oksana OR Yuliya) 
+```
+
+```jsx
+(Galina OR Lyubov OR Mariya OR Iryna OR Svitlana OR Veronika OR Alla OR Nadiya OR Tetyana OR Lera OR Yuliia OR Maryana OR Anzhelika OR Dariya OR Kseniya OR Ulyana OR Yevheniia OR Alina OR Yuliana) 
+```
+
+```jsx
+(Daria OR Karina OR Nastya OR Raisa OR Kateryna OR Alevtina OR Nadiia OR Tamara OR Sofia OR Yevgeniya OR Dasha OR Iuliia OR Anastasiya OR Viktoriia OR Oxana OR Oksana OR Olena OR Zinaida OR Zhanna) 
+```
+
+```jsx
+(Lyudmila OR Tetiana OR Valentyna OR Oksana OR Galyna OR Irmina OR Iryna OR Nadiia OR Sofiia OR Yuliia OR Tereza OR Nataliya)
+```
+
 
 ***(in Ukrainian)***
 
@@ -559,6 +652,21 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 (Марія OR Анна OR Ольга OR Наталя OR Анастасія OR Ірина OR Яна OR Юлія OR Світлана OR Алена OR Вікторія OR Валерія OR Надія OR Катерина OR Лідія OR Інна OR Оксана OR Галина OR Любов OR Ірина OR Вероніка OR Алла OR Тетяна OR Лера OR Мар'яна OR Анжеліка OR Дар'я OR Ксенія OR Уляна OR Євгенія OR Аліна OR Дар'я OR Каріна OR Настя OR Раїса OR Алевтіна OR Тамара OR Софія OR Євгенія OR Даша OR Вікторія OR Інна OR Аліна OR Наталія OR Юляна OR Валерія OR Алла OR Ірина OR Оксана OR Вікторія OR Олена OR Марта OR Романа OR Валентина OR Галина OR Аліна OR Єлизавета OR Маргарита OR Юлія OR Людмила OR Соня OR Олександра OR Віолетта OR Ангеліна OR Альона OR Альбіна OR Інеса OR Людмила OR Майя OR Рената OR Галя OR Вікторія OR Аріна OR Вероніка OR Катерина OR Марта OR Анна OR Галина OR Регіна OR Оксана OR Марина)
 ```
 **Broken down into smaller queries for Google (undeer 20 key words each)**
+```jsx
+(Марія OR Анна OR Ольга OR Наталя OR Анастасія OR Ірина OR Яна OR Юлія OR Світлана OR Алена OR Вікторія OR Валерія OR Надія OR Катерина OR Лідія OR Інна OR Оксана OR Галина OR Любов OR Ірина)
+```
+
+```jsx
+(Вероніка OR Алла OR Тетяна OR Лера OR Мар'яна OR Анжеліка OR Дар'я OR Ксенія OR Уляна OR Євгенія OR Аліна OR Дар'я OR Каріна OR Настя OR Раїса OR Алевтіна OR Тамара OR Софія OR Євгенія OR Даша)
+```
+
+```jsx
+(Вікторія OR Інна OR Аліна OR Наталія OR Юляна OR Валерія OR Алла OR Ірина OR Оксана OR Вікторія OR Олена OR Марта OR Романа OR Валентина OR Галина OR Аліна OR Єлизавета OR Маргарита OR Юлія OR Людмила)
+```
+
+```jsx
+(Соня OR Олександра OR Віолетта OR Ангеліна OR Альона OR Альбіна OR Інеса OR Людмила OR Майя OR Рената OR Галя OR Вікторія OR Аріна OR Вероніка OR Катерина OR Марта OR Анна OR Галина OR Регіна OR Оксана OR Марина)
+```
 
 🇬🇧 **United Kingdom**
 
@@ -570,6 +678,21 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(Emma OR Olivia OR Ava OR Isabella OR Sophia OR Mia OR Charlotte OR Amelia OR Harper OR Evelyn OR Abigail OR Scarlett OR Grace OR Chloe OR Victoria OR Lily OR Aria OR Madison OR Addison OR Aubrey) 
+```
+
+```jsx
+(Ella OR Adalynn OR Riley OR Brooklyn OR Aaliyah OR Leah OR Aurora OR Natalie OR Camila OR Kennedy OR Sadie OR Skylar OR Allie OR Ellie OR Sierra OR Aubree OR Kinsley OR Nevaeh OR Audrey)
+```
+
+```jsx
+(Mackenzie OR Isabelle OR Alice OR Annabelle OR Caroline OR Madelyn OR Avery OR Arielle OR Eden OR Adalyn OR Trinity OR Rachel OR Molly OR Kaylee OR Layla OR Paisley OR Mariah OR Willow OR Lara)
+```
+
+```jsx
+(Melanie OR Brianna OR Gianna OR Lillian OR Faith OR Brielle OR Eloise OR Remi OR Elsie OR Penelope OR Isla OR Ada)
+```
 
 🇺🇸 **United States (ChatGPT version)**
 
@@ -581,4 +704,20 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 ```
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
+```jsx
+(Emily OR Emma OR Olivia OR Ava OR Isabella OR Sophia OR Mia OR Charlotte OR Amelia OR Harper OR Avery OR Evelyn OR Abigail OR Emily OR Elizabeth OR Sofia OR Aubrey OR Addison OR Aria OR Adalynn)
+```
 
+```jsx
+(Mila OR Riley OR Aurora OR Arianna OR Camila OR Eleanor OR Genesis OR Eden OR Brooklyn OR Natalie OR Lillian OR Hazel OR Violet OR Aaliyah OR Kaylee OR Aurora OR Scarlett OR Audrey)
+```
+
+```jsx
+(Leah OR Allison OR Savannah OR Annabelle OR Natalie OR Isabelle OR Rylee OR Nevaeh OR Paisley OR Makayla OR Lydia OR Ellie OR Aurora OR Mackenzie OR Adalyn OR Avery OR Ezra OR Adalynn OR Hazel OR Aurora)
+```
+
+```jsx
+(Stella OR Aria OR Aurora OR Avery OR Eleanor OR Natalie OR Avery OR Evelyn OR Hazel OR Avery OR Aurora OR Avery OR Natalie OR Hazel OR Avery OR Evelyn OR Aurora)
+```
+
+**Didn't find the country you need or you find the list not extensive enough? Please contribute, let's make this tool better for the sourcing community :) **
