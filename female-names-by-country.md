@@ -11,14 +11,14 @@ Just click on the "Copy" button on the right of the window with the query.
 ***Example:** query for profiles of Linkedin users who are Front-end developers and have Dutch female first names*
 
 ```jsx
-site:linkedin.com/in ("front end" OR javascript OR JS OR React) (developer OR engineer) amsterdam (Maria OR Anna OR Sophie OR Emma OR Mia OR Julia OR Lieve OR Lotte OR Sara OR Sanne OR Eva OR Linda OR Elise OR Femke OR Isabelle OR Yara OR Amelia OR Charlie OR Maja OR Noa OR Roos OR Fleur OR Merel OR Nina OR Hanna OR Lianne OR Amy OR Milou OR Megan OR Iris OR Aurora OR Lotte OR Maxime OR Pien OR Bo OR Inez OR Esther OR Bente OR Lisanne OR Lien OR Liza OR Nienke OR Maud OR Marije OR Lin OR Aniek OR Kim OR Marloes OR Jasmijn OR Lian OR Loes OR Maike OR Merel OR Puck OR Rosa OR Sofie OR Suus OR Tess OR Wendy OR Ylva OR Zoë OR Lisa OR Annemarie OR Bianca OR Cathelijne OR Eline OR Francien OR Gertie OR Hester OR Janna OR Jenny OR Kimberley OR Lianne OR Loes OR Monique OR Nina OR Patricia OR Paulien OR Pauline OR Sabrina OR Sandra OR Sanneke OR Simone OR Tineke OR Willeke OR Wilma OR Xandra OR Yvonne OR Zus)
+site:linkedin.com/in ("front end" OR javascript OR JS OR React) (developer OR engineer) amsterdam (Emma OR Olivia OR Ava OR Isabella OR Sophia OR Charlotte OR Mia OR Amelia OR Harper OR Evelyn OR Abigail OR Emily OR Elizabeth OR Avery OR Sofia OR Ella OR Madison OR Scarlett OR Victoria OR Aria)
 ```
 
 
  ***Example:** query for profiles of the Github users who have Dutch female first names and work with JavaScript*
 
 ```jsx
-site:github.com "block or report" javascript (Maria OR Anna OR Sophie OR Emma OR Mia OR Julia OR Lieve OR Lotte OR Sara OR Sanne OR Eva OR Linda OR Elise OR Femke OR Isabelle OR Yara OR Amelia OR Charlie OR Maja OR Noa OR Roos OR Fleur OR Merel OR Nina OR Hanna OR Lianne OR Amy OR Milou OR Megan OR Iris OR Aurora OR Lotte OR Maxime OR Pien OR Bo OR Inez OR Esther OR Bente OR Lisanne OR Lien OR Liza OR Nienke OR Maud OR Marije OR Lin OR Aniek OR Kim OR Marloes OR Jasmijn OR Lian OR Loes OR Maike OR Merel OR Puck OR Rosa OR Sofie OR Suus OR Tess OR Wendy OR Ylva OR Zoë OR Lisa OR Annemarie OR Bianca OR Cathelijne OR Eline OR Francien OR Gertie OR Hester OR Janna OR Jenny OR Kimberley OR Lianne OR Loes OR Monique OR Nina OR Patricia OR Paulien OR Pauline OR Sabrina OR Sandra OR Sanneke OR Simone OR Tineke OR Willeke OR Wilma OR Xandra OR Yvonne OR Zus)
+site:github.com "block or report" javascript (Emma OR Olivia OR Ava OR Isabella OR Sophia OR Charlotte OR Mia OR Amelia OR Harper OR Evelyn OR Abigail OR Emily OR Elizabeth OR Avery OR Sofia OR Ella OR Madison OR Scarlett OR Victoria OR Aria)
 ```
  
 This is a raw base of your query, you can modify it per your requirements, add location, technologies, other platforms, etc.
