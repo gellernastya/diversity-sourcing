@@ -391,6 +391,29 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(Amina OR Funke OR Adebisi OR Adebimpe OR Adedoyin OR Adefunke OR Adejoke OR Adekunbi OR Ademola OR Adetutu OR Adeyemi OR Adunni OR Afolabi OR Alaba OR Alagbo OR Alakija OR Alhaja OR Aliyu OR Amaka OR Aminat)
+```
+
+```jsx
+(Anike OR Arinze OR Atinuke OR Ayo OR Balikis OR Binta OR Bisi OR Chiamaka OR Chidimma OR Chika OR Chinelo OR Chukwudi OR Dabira OR Damilola OR Danjuma OR Ebele OR Ebere OR Edith OR Edna OR Ekene)
+```
+
+```jsx
+(Elizabeth OR Emem OR Emilia OR Esther OR Eucharia OR Fidelia OR Funmi OR Grace OR Halimat OR Hannah OR Hauwa OR Ifeoma OR Ijeawele OR Imaobong OR Iniobong OR Itohan OR Jumoke OR Kikelomo OR Kemi OR Kemisola)
+```
+
+```jsx
+(Kofoworola OR Laraba OR Lateefat OR Lateefat OR Latifat OR Lola OR Maureen OR Mercy OR Modupe OR Morenike OR Moyinoluwa OR Moyosore OR Ngozi OR Nifemi OR Nkechi OR Nnena OR Nneoma OR Nwabueze OR Nwadiogo OR Nwamaka)
+```
+
+```jsx
+(Nwanyimma OR Nweke OR Nwogu OR Nwoke OR Nwosu OR Obianuju OR Obiora OR Ogechukwu OR Ogonna OR Ogochukwu OR Olufunmilayo OR Olufunmi OR Oluwafunmilayo OR Oluwafunmi OR Oluwaseun OR Onyekachi OR Patricia OR Peace OR Rukayat OR Sharon OR Sidikat)
+```
+
+```jsx
+(Sophia OR Taiwo OR Tolulope OR Uche OR Ugochukwu OR Uju OR Ukamaka OR Uzoamaka)
+```
 🇳🇴 **Norway**
 
 **Full query (can be used with Linkedin)**
@@ -402,6 +425,26 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(Anna OR Ingrid OR Karin OR Elisabeth OR Margrethe OR Astrid OR Ragnhild OR Bodil OR Liv OR Tone OR Solveig OR Gudrun OR Sigrid OR Hilde OR Tone OR Berit OR Turid OR Bente OR Kari OR Gro) 
+```
+
+```jsx
+(Eli OR Kristin OR Marit OR Unni OR Ingeborg OR Grethe OR Anne OR Else OR Lene OR Maja OR Britt OR Gunn OR Marius OR Line OR Kjersti OR Merete OR Lillian OR Nina OR Siv OR Ellen)
+```
+
+```jsx
+(Stine OR Eva OR Bente OR Anette OR Tove OR Ida OR Marte OR Synnøve OR Sissel OR Henny OR Tine OR "Kari-Anne" OR Randi OR Mona OR Mette OR Lise OR Helene OR Johanne OR Wenche OR Monika)
+```
+
+```jsx
+(Susanne OR Lene OR Anny OR Marielle OR Maren OR Mariann OR Hanne OR Karoline OR Tonje OR Ruth OR Lena OR Irmelin OR Karine OR Cathrine OR Wenche OR Arntzen OR Inga OR Adele OR Marjorie)
+```
+
+```jsx
+(Ylva OR Siri OR Stine OR Vibeke OR Signe OR Gunhild OR Aud OR Inge OR Oda OR Guro OR Katrine OR Maria OR Barbro OR Elin OR Maria OR Anneli OR Lene OR Solfrid OR Groa OR Hjørdis OR Mille OR Martine OR Else OR Ingunn OR Elisabeth OR Ruth)
+```
+
 🇵🇱 **Poland**
 
 **Full query (can be used with Linkedin)**
@@ -412,6 +455,21 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(Agata OR Alicja OR Anna OR Barbara OR Beata OR Danuta OR Dorota OR Elżbieta OR Ewa OR Halina OR Iwona OR Joanna OR Jolanta OR Katarzyna OR Kinga OR Krystyna OR Magdalena OR Małgorzata OR Mariola)
+```
+
+```jsx
+(Marta OR Monika OR Natalia OR Paulina OR Renata OR Roberta OR Sabrina OR Sylwia OR Tamara OR Teresa OR Urszula OR Wiesława OR Zofia OR Adrianna OR Aleksandra OR Aneta OR Antonina OR Bożena OR Celina OR Czesława)
+```
+
+```jsx
+(Edyta OR Eliza OR Emilia OR Gabriela OR Grażyna OR Jowita OR Justyna OR Kamila OR Karolina OR Marzena OR Michalina OR Milena OR Nadzieja OR Nika OR Nina OR Oliwia OR Stanisława OR Wanda OR Agnieszka OR Anastazja)
+```
+
+```jsx
+(Angelika OR Blanka OR Cecylia OR Edyta OR Gabriela OR Jowita OR Justyna OR Kamila OR Karolina OR Marzena OR Michalina OR Milena OR Nadzieja OR Nika OR Nina OR Oliwia OR Wanda)
+```
 
 🇵🇹 **Portugal**
 
@@ -424,6 +482,25 @@ This list is a work in progress, if you see any errors (typos, repeating names),
 
 **Broken down into smaller queries for Google (undeer 20 key words each)**
 
+```jsx
+(Maria OR Ana OR Joana OR Carolina OR Marta OR Rita OR Beatriz OR Inês OR Sofia OR Margarida OR Teresa OR Filipa OR Isabel OR Catarina OR Raquel OR Rosa OR Luciana OR Fernanda OR Daniela OR Paula) 
+```
+
+```jsx
+(Manuela OR Cláudia OR Mariana OR Elisa OR Mónica OR Tânia OR Sónia OR Madalena OR Luísa OR Gabriela OR Núria OR Adriana OR Alice OR Bruna OR Marisa OR Patrícia OR Bárbara OR Dulce OR Estela OR Deolinda)
+```
+
+```jsx
+(Fátima OR Conceição OR Arminda OR Guida OR Isaura OR Vanda OR Fatima OR Laura OR Marcelina OR Olga OR Sara OR Helena OR Emília OR Carlota OR Júlia OR Lucinda OR Graça OR Adélia OR Amália)
+```
+
+```jsx
+(Aurora OR Benedita OR Iracema OR Eulália OR Cândida OR Liliana OR Ester OR Olinda OR Silvana OR Rosário OR Elisabete OR Leonor OR Regina OR Lurdes OR Lúcia OR Graciete OR Anabela OR Júlia)
+```
+
+```jsx
+(Mariana OR Emilia OR Adelaide OR Graça OR Raquel OR Bárbara OR Liliana OR Joana OR Adriana OR Mariana OR Emilia OR Amélia OR Luciana OR Adriana OR Sofia OR Maria)
+```
 
 🇸🇬 **Singapore**
 
