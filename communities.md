@@ -19,7 +19,7 @@ The full list was broken down into three strings to meet the number of keywords 
 Example:
 
 ```jsx
-site:linkedin.com/in (javascript OR JS OR "Front End" OR React) netherlands ("Women in Technology (WIT)" OR "Women Techmakers" OR "Code First Girls" OR "Geek Girl Meetup" OR "Women Who Code" OR "Tech Ladies" OR "Ladies of Code" OR "Lesbians Who Tech" OR "QueerJS" OR "She Codes" OR "Ada's List" OR "Women in Games" OR "Women in Data" OR "Women in AI" OR "Women in Cybersecurity" OR "Women in Blockchain" OR "Women Who Startup" OR "Techettes" OR "Women in Digital Switzerland" OR "Women in Tech Poland")
+site:linkedin.com/in (javascript OR JS OR "Front End" OR React) netherlands ("Women in Technology (WIT)" OR "Women Techmakers" OR "Code First Girls" OR "Geek Girl Meetup" OR "Women Who Code" OR "Tech Ladies" OR "Ladies of Code" OR "Lesbians Who Tech" OR "QueerJS" OR "She Codes" OR "Ada's List" OR "Women in Games" OR "Women in Data" OR "Women in AI" OR "Women in Cybersecurity" OR "Women in Blockchain" OR "Women Who Startup" OR "Techettes")
 ```
 
 ### List of communities in this string
