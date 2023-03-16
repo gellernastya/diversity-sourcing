@@ -1,8 +1,9 @@
 # diversity-sourcing
 ## Diversity Sourcing Boolean Strings Toolkit
-![undraw_Search_engines_ij7q](https://user-images.githubusercontent.com/32433798/225628003-593ffde9-2b69-46f8-8a5b-2b6da93fa2e3.png)
+![undraw_People_search_re_5rre](https://user-images.githubusercontent.com/32433798/225628167-cab467e9-849c-4208-9203-fdda9ba0954b.png)
 
 This repository is a toolkit of ready-to-use Boolean strings to help you with diversity sourcing. 
+
 
 **It has three sections:**
 
